@@ -1,0 +1,111 @@
+baseurl = "https://www.miri-und-tim.com/"
+DefaultContentLanguage = "de"
+title = "Miri & Tim's Blog"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+#pygmentsStyle = "trac"
+#pygmentsUseClasses = true
+#pygmentsCodeFences = true
+#pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+disqusShortname = "miri-und-tim"
+googleAnalytics = "UA-127858002-1"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+enableEmoji = true
+
+[Params]
+  #subtitle = "Build a beautiful and simple website in minutes"
+  #logo = "img/avatar-icon.png"
+  favicon = "img/favicon.ico"
+  dateFormat = "2. January 2006"
+  commit = false
+  rss = true
+  comments = true
+  readingTime = true
+  useHLJS = true
+  gcse = "011950318429351382875:ybekbczc7jg" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+[[Params.bigimg]]
+  src = "img/banner.jpg"
+#  desc = "Triangle"
+#[[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#  # position: see values of CSS background-position.
+#  position = "center top"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+[Author]
+  name = "Miri & Tim"
+  website = "https://www.miri-und-tim.com/"
+  #email = "tim.hagmann@gmail.com"
+  #facebook = "username"
+  #googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
+  #gitlab = "username"
+  #twitter = "timhagmann"
+  #reddit = "username"
+  #linkedin = "username"
+  #xing = "username"
+  #stackoverflow = "users/number/name"
+  #snapchat = "username"
+  instagram = "bigblure"
+  youtube = "user/timhagmann" # or channel/channelname
+  github = "greenore"
+  #soundcloud = "username"
+  #spotify = "username"
+  #bandcamp = "username"
+  #itchio = "username"
+  #vk = "username"
+  #paypal = "username"
+  #telegram = "username"
+
+[[menu.main]]
+    name = "Blog"
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
+    weight = 2
+    
+[[menu.main]]
+    name = "Reiseroute"
+    url = "page/reiseroute/"
+    weight = 3
+
+[[menu.main]]
+    name = "Über uns"
+    url = "page/about/"
+    weight = 4
+    
+#[[menu.main]]
+    #identifier = "samples"
+    #name = "Samples"
+    #weight = 2
+
+#[[menu.main]]
+    #parent = "samples"
+    #name = "Big Image Sample"
+    #url = "post/2017-03-07-bigimg-sample"
+    #weight = 1
+
+#[[menu.main]]
+    #parent = "samples"
+    #name = "Math Sample"
+    #url = "post/2017-03-05-math-sample"
+    #weight = 2
+
+#[[menu.main]]
+    #parent = "samples"
+    #name = "Code Sample"
+    #url = "post/2016-03-08-code-sample"
+    #weight = 3
+
+#[[menu.main]]
+    #name = "Categories"
+    #url = "categories"
+    #weight = 5

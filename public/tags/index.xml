@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Miri &amp; Tim&#39;s Blog</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Miri &amp; Tim&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 31 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Affentempel</title>
+      <link>/tags/affentempel/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/affentempel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anreise</title>
+      <link>/tags/anreise/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/anreise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kathmandu</title>
+      <link>/tags/kathmandu/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/kathmandu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Muscat</title>
+      <link>/tags/muscat/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/muscat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nepal</title>
+      <link>/tags/nepal/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/nepal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oman</title>
+      <link>/tags/oman/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/oman/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
