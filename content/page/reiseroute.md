@@ -20,5 +20,5 @@ Anbei die detaillierte Reiseroute:
 | Ostküste  Australien | 30. Dezember - 12. Januar   |
 | Tasmanien            | 12. Januar - 25. Januar     |
 | Neuseeland           | 25. Januar - 16. März       |
-| Vanuatu              | 16. März - 01. April        |
+| Vanuatu              | 16. März - 31. März        |
 
