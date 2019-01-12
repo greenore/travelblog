@@ -1,8 +1,8 @@
 ---
 title: 'Wandern im Himalaya (3)'
 author: 'Tim Hagmann'
-date: '2018-11-07'
-slug: himalaya-2
+date: '2018-11-11'
+slug: himalaya-3
 categories: []
 tags: [Lukla, Himalaya, Wanderung, Pangboche, Pheriche, Thukla, Lobuche, Gorakshep, EVBC]
 subtitle: ''
