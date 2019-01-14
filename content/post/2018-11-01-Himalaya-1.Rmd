@@ -13,6 +13,7 @@ bigimg: [{src: "/post/2018-11-01-Himalaya-1_files/P1000519.JPG"}]
 Nach einer sehr kurzen Nacht (zusätzlich auch Dank der Aufregung) werden wir um 4.30 Uhr von Manraj abgeholt. Der Flughafen ist noch nicht offen, wir stehen fast ganz vorne an. Manraj scheint alle zu kennen, so dass wir auch beim Einchecken und beim Einsteigen in den Flieger ganz vorne dabei sind.
 
 ![](/post/2018-11-01-Himalaya-1_files/P1000508.JPG)
+
 ![](/post/2018-11-01-Himalaya-1_files/P1000498.JPG)
 
 Ein winziger Flieger: kleiner Mittelgang, 6 Plätze auf jeder Seite. Wir sitzen ganz vorne und können ins offene Cockpit sehen. Glücklicherweise gehen die 25 Minuten Flug viel ruhiger vorbei als erwartet und die Landung (wir rasen auf die Bergwand zu) verläuft auch gut.
@@ -20,11 +21,13 @@ Ein winziger Flieger: kleiner Mittelgang, 6 Plätze auf jeder Seite. Wir sitzen 
 ```{r, eval=TRUE, echo=FALSE}
 blogdown::shortcode("youtube", "78e4QiOXJik")
 ```
+
 ![](/post/2018-11-01-Himalaya-1_files/P1000584.JPG)
 
 In Lukla (2800m) tragen wir das Gepäck zu einem kleinen Teahouse, warten dort auf den Porter und frühstücken ein Porridge was (zunächst) zu einem konstanten Begleiter auf der Höhe werden wird. Wir treffen unseren Porter und er lädt unser Gepäck auf - unter unseren entschuldigenden Blicken. Und dann geht es los. Eine erste einfache Etappe nach Phakding.
 
 ![](/post/2018-11-01-Himalaya-1_files/P1000593.JPG)
+
 ```{r, eval=TRUE, echo=FALSE}
 blogdown::shortcode("youtube", "CaBdpvZNCYQ")
 ```
@@ -51,11 +54,13 @@ Der zweite Tag ist angeblich einer der härtesten. Es geht zuerst relativ flach 
 Der zweite Trektag beginnt mit Porridge und Tee und viel Sonnenschein. Fröhlich machen wir uns auf den Weg. Die Landschaft ist schön, es geht an einem Fluss entlang. Wir merken allerdings ein wenig wie uns die Höhe, die Sonne, das fremde Essen zusetzt und kommen schnell ausser Atem. Es geht bergauf, bergab.
 
 ![](/post/2018-11-01-Himalaya-1_files/P1000716.JPG)
+
 ![](/post/2018-11-01-Himalaya-1_files/P1000695.JPG)
 
 Dann kommen wir in Jorsalle an. Tim hat starken Husten und hat Mühe mit dem Atmen. Was das laufen richtig anstrengend macht. Manraj entscheidet, dass wir hierbleiben. Ein zusätzlicher Tag auf dieser Höhe würde uns guttun.
 
 ![](/post/2018-11-01-Himalaya-1_files/P1000739.JPG)
+
 ![](/post/2018-11-01-Himalaya-1_files/P1000745.JPG)
 
 Dal Bat und Tee ist unser Mittagessen. Nachmittags steht das Kartenspielen an sowie eine Partie Billard. Wir treffen einen Deutschen, der in der Luxusunterkunft ist. Er sei umgekehrt mit einem Begleiter. Bei seinem Begleiter ging es ab 4000m nicht. Er hatte zu starke Höhenprobleme. Oh... aber wir machen uns noch keine zu starken Gedanken, wir haben ja sehr viele Akklimatisierungstage eingeplant. Kein Problem!
@@ -72,14 +77,18 @@ Wir treffen auf zwei Deutsche, die selbst ihr Gepäck tragen, David und Samantha
 Der dritte Trekkingtag führt uns steil bergauf nach Namche Bazar. Zunächst noch flach an einem Flussbett entlang, dann über RIESIGE Hängebrücken. Auch Yaks überqueren diese problemlos. Nur wir halten kurz den Atmen an. Die Sonne scheint stark. Miri ist sehr ausser Atem beim Laufen. Es geht bergauf bergauf bergauf. Nur wenig kleine Pausen. Unterwegs treffen wir die David und Samantha wieder. Und eine Gruppe älterer Deutscher, Miri unterhält sich mit den Frauen über das Haarewaschen ;). Von einem View Point aus sieht man den Everest, wow! Aber der ist auch noch ziiiiiiemlich weit weg...
 
 ![](/post/2018-11-01-Himalaya-1_files/P1000782.JPG)
+
 ![](/post/2018-11-01-Himalaya-1_files/P1000775.JPG)
+
 ![](/post/2018-11-01-Himalaya-1_files/P1000804.JPG)
+
 ![](/post/2018-11-01-Himalaya-1_files/P1000809.JPG)
 
 Oben angekommen geht es Miri auf einmal etwas schlecht: Kopfschmerzen, kalt, kaputt. Sie kauert auf der Bank.
 Unser Teahouse ist riesig, wir haben sogar ein Zimmer mit Bad. Richtiger Luxus. Aber auch Namche selbst ist eine "verrückte" Stadt. Es kommt einem tatsächlich wie eine Stadt vor, mitten in den Bergen. Viele Geschäfte, viele Bars.
 
 ![](/post/2018-11-01-Himalaya-1_files/P1010928.JPG)
+
 ![](/post/2018-11-01-Himalaya-1_files/P1010861.JPG)
 
 Wir essen und packen uns warm ein. Auch die Gruppe älterer Deutscher treffen wir wieder im Essraum. Sie wirken recht erfahren, waren wohl teilweise auch schon hier, sind Bergwanderer. Wir gehen in eine Bar "Hungry Yak", trinken Ingwer-Lemon-Tee (gut für die Höhe, aber eklig) und schauen eine Dokumentation halb zuende über die Everest-Besteigung von Mallory und Irvine und eine weitere Dokumentation über eine Schweizer Expedition zum Gipfel des Everests.
@@ -97,6 +106,7 @@ Aber wir machen uns auch bereits Gedanken, hoffentlich geht es Miri wieder besse
 Der vierte Tag ist eigentlich als Akklimatisierungstag angedacht, dass heisst, hochwandern und wieder in Namche Bazaar Schlafen. An diesem vierten Tag geht es Miri auch wieder viel besser, aber Manraj entscheidet, dass wir nicht den geplanten Akklimatisationshike zum Japanischen Teahouse machen sondern nur im Ort ein wenig hochlaufen, in ein Museum gehen und Miri sich erholen kann. Tim findet das etwas verschenkte Zeit, aber: die Sonne scheint und Miri merkt schon die Meter zum Aussichtspunkt hoch und zum Museum im Magen und im Kopf. Der Aussichtspunkt hat einen tollen Blick auf den Ama Dablam. 
 
 ![](/post/2018-11-01-Himalaya-1_files/IMG_20181104_083840.jpg)
+
 ![](/post/2018-11-01-Himalaya-1_files/IMG_20181104_091322.jpg)
 
 Das Museum zeigt ein Sherpa Haus, ausserdem eine Galerie von Sherpabildern. Sehr interessant. Wir gehen wieder ins "Hungry Yak" und schauen die Mallory-Dokumentation von Beginn an. Ausserdem gibt es mehr Ingwer-Lemon-Tee. In einer Pharmazie kaufen wir weiteres Toilettenpapier und Probiotika. Ein gemütlicher Tag, gute Aussicht, so macht es doch auch Spass :).
@@ -110,12 +120,15 @@ Wir fragen Manraj ob wir den Morgenablauf ändern können: Erst frühstücken, d
 Der Morgen läuft wie geplant: Frühstücken, Wasser abfüllen, Sonnencreme, Gepäck packen. Der fünfte Tag führt uns steil bergauf. Wir sind fit und fühlen uns gut. Wir laufen SEHR langsam um nicht ausser Atem zu kommen und das erweist sich als sehr gut. Wir können fröhlich laufen. Unterwegs teilen wir mit Manraj und dem Porter Nüsse und Kinderschokolade. Manraj holt seinen Bluetooth-Lautsprecher heraus, wir hören Musik. Das wird uns noch einige Male beim Laufen begleiten und für (einen kurzen Moment) gute Laune sorgen :).
 
 ![](/post/2018-11-01-Himalaya-1_files/P1011016.JPG)
+
 ![](/post/2018-11-01-Himalaya-1_files/P1011017.JPG)
 
 Unser Weg führt uns nach ca. 1.5 Stunden zum Everest View Hotel (3880m) mit einem beindruckend Blick auf den Mount Everest. Das Hotel wurde von und für Japaner gebaut welche sich via Helikopter direkt für eine Nacht auf den Mount Everst fliegen lassen.
 
 ![](/post/2018-11-01-Himalaya-1_files/P1011125.JPG)
+
 ![](/post/2018-11-01-Himalaya-1_files/P1011137.JPG)
+
 ![](/post/2018-11-01-Himalaya-1_files/P1011142.JPG)
 
 Wir geniessen (nicht) einen (Honey) Lemon Ginger Tee mit dem spektakulären Blick. Wir entscheiden uns leichten Herzens uns die die Nacht für 238 Dollar entegehen zu lassen und machen uns auf zu einem gemütlichen Abstieg nach Khujung (3790m). Wir sind froh, heute fällt das Laufen sehr leicht, es ist sehr schön, wir können die Umgebung richtig geniessen.
@@ -127,11 +140,13 @@ blogdown::shortcode("youtube", "4DbzzNNzXTk")
 Inspiriert vom Japanischen Luxus gönnen wir uns ein ein Zimmer mit eigenem Badezimmer mit direktem Blick auf den Ama Dablam (dem Matterhorn Nepals) für 10 Dollar die Nacht. Hier könnten wir sogar eine heisse Dusche in unserem eigenen Badezimmer nehmen. Wir entscheiden uns aber dagegen. Einerseits fällt uns das schwer, Sonnencreme, Anstrengung abduschen wäre schön. Andererseits ist es eine einfache Entscheidung: es ist ab nachmittag und abends kalt, die Vorstellung die Kleidung auszuziehen ist überhaupt nicht schön. Ausserdem hat uns Manraj gewarnt, Duschen auf der Höhe spätestens ab 4000m kühlt den Körper stark aus. Danach wird man praktisch automatisch krank. Wir wollen also so kurz darunter kein Risiko eingehen.
 
 ![](/post/2018-11-01-Himalaya-1_files/P1011198.JPG)
+
 ![](/post/2018-11-01-Himalaya-1_files/P1011199.JPG)
 
 Wir sind froh, dass es uns so gut geht. Nachdem wir uns ein wenig eingerichtet haben, spazieren wir gemütlich durchs Dorf und besichtigen das lokale Budistische Kloster. Die Mönche sind allerdings ausgeflogen wodurch wir nur den Innenhof und nicht die Gebetsräume besichtigen können.
 
 ![](/post/2018-11-01-Himalaya-1_files/IMG_20181105_151753.jpg)
+
 ![](/post/2018-11-01-Himalaya-1_files/IMG_20181105_152308.jpg)
 
 Zurück im Tea House geniesst Miri eine Nudelspuppe und Tim eine Eiersuppe. Am Nebentisch sitzt ein Ostdeutsches Pärchen welche eigentlich die 3 berühmten Mountain Pässe machen wollten. Auf dem Weg nach Gokyo (4750m) mussten sie allerdings umdrehen da die Frau sehr schwere Komplikationen mit der Höhenkrankheit hatte. Sie haben sich aus diesem Grund von ihrer Gruppe getrennt und machen nun mit einem der Träger eine gemütlichere Wanderung mit verschiedenen tiefer gelegenen Zielen.
@@ -139,6 +154,7 @@ Ihre Ausführungen machen uns ein wenig Sorgen. Sie erzählen uns auch von dem s
 Ein gemütlicher Abend: Wir spielen Mau Mau, Manraj wird das auch lernen :) und stellen eine Bestenliste auf, die wir bis zum Ende führen werden. Eine gute und lustige Nachmittags- und Abendbeschäftigung hier oben :). 
 
 ![](/post/2018-11-01-Himalaya-1_files/P1011246.JPG)
+
 ![](/post/2018-11-01-Himalaya-1_files/P1011245.JPG)
 
 #### Khujung - Pangboche (6. November, 4000m)
@@ -155,22 +171,27 @@ blogdown::shortcode("youtube", "Vj8yDh3WUmw")
 Zunächst entspricht der Weg dem bereits beschriebene Nepali Flat, dann geht es ziemlich bergab. Wir rennen hinunter hinunter hinunter. Anschliessend führt uns Marnaj durch ein tiefes Tal über eine spektaktuläre Hängebrücke. Danach geht es hoch bis Tengboche (3876m). Der Anstieg ist sehr streng! Es geht hoch, hoch, hoch, hoch. Zusätzlich ist es heiss. T-Shirt Wetter ist angesagt. Wir haben etwas dazu gelernt von Namche und lassen uns sehr viel Zeit, gehen gemütlich, achten darauf gut zu atmen und vor allem in der Hitze viel zu trinken. Es scheint gut zu gehen, denn wir kommen gut hinauf. Nach Manrajs Warnung, dass es schwierig werden wird, sind wir stolz, dass es so gut geklappt hat bis hier oben.
 
 ![](/post/2018-11-01-Himalaya-1_files/P1011287.JPG)
+
 ![](/post/2018-11-01-Himalaya-1_files/P1011278.JPG)
 
 Der Ort ist insbesondere berühmt für sein Kloster wofür wir allerdings keine Zeit haben. Dieses schauen wir laut Manraj auf dem Rückweg an. Wir essen einen kurzen Lunch. Beim Sitzen merken wir, dass es uns vielleicht doch nicht so gut geht. Ist uns vielleicht ein wenig schwindlig nach dem Aufstieg? Es kommt uns doch ein wenig so vor. Aber lange bleiben wir nicht sitzen zum nachdenken und eilen weiter - Manraj fragt auch ob es geht, wir denken schon.
 
 ![](/post/2018-11-01-Himalaya-1_files/P1011343.JPG)
+
 ![](/post/2018-11-01-Himalaya-1_files/P1011334.JPG)
 
 Manraj scheint es heute grundsätzlich sehr eilig zu haben. Wir finden zu einem späteren Zeitpunkt heraus warum. Der Grund lautet Caroline, eine britische Bergführerin, die eine Gruppe im Everest-Gebiet herumführt. Wir rennen entsprechend zunächst den Weg hinunter nach Deboche (3820m). Dort fühlen wir uns doch kaputt. Aber Manraj hat den Träger schon vorgeschickt nach Pangboche, nachdem wir gesagt hatten es ging. Und wir meinen, es geht schon auch. Also eilen wir weiter, zügig hinauf Richtung Pangboche (4000m).
 
 ![](/post/2018-11-01-Himalaya-1_files/P1011329.JPG)
+
 ![](/post/2018-11-01-Himalaya-1_files/P1011359.JPG)
+
 ![](/post/2018-11-01-Himalaya-1_files/P1011375.JPG)
 
 Wir sind Manraj nicht schnell genug, beeilen uns aber durchaus. Der Weg scheint sich immer länger und länger bergauf zu ziehen. Scheinbar sind wir aber wirklich recht langsam. Unser Träger kommt uns wieder entgegen. Er hat sich offensichtlich schon Sorgen gemacht wo wir bleiben. Unseren Daypack geben wir aber nicht ab zum Tragen. Leider haben diese Aufstiege heute und die Eile die Konsequenz, dass wir völlig ausgelaugt und erschöpft in Pangboche ankommen.
 
 ![](/post/2018-11-01-Himalaya-1_files/P1011377.JPG)
+
 ![](/post/2018-11-01-Himalaya-1_files/P1011384.JPG)
 
 Die Gruppe von Caroline begrüsst uns im Aufenthaltsraum, dafür sind wir aber wirklich zu kaputt. Das ist uns gerade nicht wirklich angenehm. Wir gehen also kurz aufs Zimmer weil wir kaputt sind. 

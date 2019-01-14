@@ -17,18 +17,23 @@ Wir konnten sehr gut schlafen, sind aber noch müde. Zum Frühstück wagen wir u
 Christine holt uns ab... unsere vermeintlich kurzer Spaziergang entpuppt sich als mehrstündige Wanderung, zunächst durch das gesamte Touristenviertel Thamel hindurch, dann weiter einen ziemlichen Hügel hinauf zum "Affentempel" Swayambhunath. Kathmandu ist weniger voller Gerüche als erwartet, aber zusätzlich zum Smog und Staub der ungeteerten Strassen auch viel heisser. Wir haben keinen Sonnenhut dabei, kein Wasser und befürchten schon schlimmstes (Sonne und laufen ist immer schwierig für uns). Immerhin hatten wir an die Sonnencreme gedacht.
 
 ![](/post/2018-10-31-Kathmandu/P1000266.JPG)
+
 ![](/post/2018-10-31-Kathmandu/P1000287.JPG)
 
 Sehr viele Treppen führen zum grossen Tempel etwas oberhalb von Kathmandu, Strassenverkäufer und Affen säumen den Weg. Je höher wir kommen desto mehr sieht man unterhalb den Smog und Dunst über der Stadt. Die Stupa (Tempel) ist riesig, wir erfahren, dass man nie hineingehen kann, nur drumherum.
 
 ![](/post/2018-10-31-Kathmandu/P1000334.JPG)
+
 ![](/post/2018-10-31-Kathmandu/P1000290.JPG)
+
 ![](/post/2018-10-31-Kathmandu/P1000310.JPG)
 
 Es ist gerade eine buddhistische Festlichkeit, so dass viele Mönche und Personen dort oben sind. Spannend zu sehen was sie mit Ölen, Blumen und Farben machen. Ausserdem führt uns Christine zu einem kleinen Laden eines Freundes der uns demonstriert wie Klangschalen funktionieren.
 
 ![](/post/2018-10-31-Kathmandu/P1000297.JPG)
+
 ![](/post/2018-10-31-Kathmandu/P1000370.JPG)
+
 ![](/post/2018-10-31-Kathmandu/P1000412.JPG)
 
 Ein paar Stunden später, wieder in Thamel, hat Tim sich eine dicke Daunenjacke (Marke Marmot - aber von der chinesischen Art) gekauft und wir treffen auf eine Gruppe Franzosen die heute aus dem Himalaya kommt - unter der Führung unseres Guides für den Trek: Manraj Tamang. Er ist 25 Jahre alt und scheint gut zu uns zu passen. Christine, Manraj und Christines französischer Freund Nico kommen mit zu unserem Hotel um unsere Ausrüstung zu checken: wir müssen noch dicke Handschuhe kaufen und eine dicke Fliesjacke für Miriam. Manraj verabschiedet sich, er will noch duschen bevor es morgen wieder losgeht und wird uns am nächsten Morgen mit dem Taxi um halb 6 am Hotel abholen - unser Flug nach Lukla wird um 7 Uhr starten - falls das Wetter es zulässt. Lukla gilt als (einer) der gefährlichsten Flughäfen der Welt aufgrund der sehr kurzen Start- und Landebahn, die direkt in den Berg gebaut wurde.

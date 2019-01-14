@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/himalaya-3/</loc>
+    <lastmod>2018-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/himalaya-2/</loc>
     <lastmod>2018-11-07T00:00:00+00:00</lastmod>
   </url>
@@ -24,7 +29,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-11-07T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -56,13 +61,13 @@
   
   <url>
     <loc>/tags/gorakshep/</loc>
-    <lastmod>2018-11-07T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/himalaya/</loc>
-    <lastmod>2018-11-07T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -74,13 +79,7 @@
   
   <url>
     <loc>/tags/lobuche/</loc>
-    <lastmod>2018-11-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/lukla/</loc>
-    <lastmod>2018-11-07T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -127,7 +126,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2018-11-07T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -149,7 +148,7 @@
   
   <url>
     <loc>/tags/wanderung/</loc>
-    <lastmod>2018-11-07T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
