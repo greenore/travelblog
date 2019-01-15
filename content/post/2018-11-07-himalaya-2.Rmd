@@ -42,17 +42,21 @@ Wir verstehen Manrajs Argument, dass am Base Camp eigentlich nichts sei für das
 
 ![](/post/2018-11-07-Himalaya-2_files/P1011476.JPG)
 
-Das kleine Teahouse, das Manraj in Pheriche ausgewählt hätte ist bereits ausgebucht. So kommen wir in den Genuss eines richtigen Luxus-Teahouses. Ein grosses "Hotel" mit richtig gemütlich warmen Ess/Aufenthaltsraum und eigenem (fast schon sauberen Bad). Theoretisch könnten wir hier wohl sogar Duschen. Aber das ist viel zu gefährlich, bei dem kalten Wetter kühlt man danch völlig aus. So wird man garantiert krank.
+Das kleine Teahouse, das Manraj in Pheriche ausgewählt hätte ist bereits ausgebucht. So kommen wir in den Genuss eines richtigen Luxus-Teahouses. Ein grosses "Hotel" mit richtig gemütlich warmen Ess/Aufenthaltsraum und eigenem (fast schon sauberen Bad). Theoretisch könnten wir hier wohl sogar Duschen. Aber das ist viel zu gefährlich, bei dem kalten Wetter kühlt man danach völlig aus. So wird man garantiert krank.
 
 ![](/post/2018-11-07-Himalaya-2_files/P1011485.JPG)
 
-Mittag- und Abendessen sind hier sehr lecker. Sherpa Stew, Kartoffeln, aber vor allem die Momos sind extrem gut. Der bekannte Ginger-Lemon-Honey Tee darf natürlich nicht fehlen. Wir bestellen wie immer auch eine grosse Kanne heisses Wasser. Durchgehend trinken wir unseren eigenen Erkältungstee, da wir mit dem Schnupfen immer etwas kränkeln. Ausserdem trinken wir nun fleissig Elektrolyte. Das hilft ebenfalls. Der gestrige Tiefpunkt hat uns doch ziemlich beunruhigt, das halten wir nicht noch einmal aus. 
+Mittag- und Abendessen sind hier sehr lecker. Sherpa Stew (eine Art Eintopf mit Nudeln, Kartoffeln, Gemüse und viel Knoblauch), Kartoffeln, aber vor allem die Momos sind extrem gut.
+
+![](/post/2018-11-07-Himalaya-2_files/IMG_20181112_130145.jpg)
+
+Der bekannte Ginger-Lemon-Honey Tee darf natürlich nicht fehlen. Wir bestellen wie immer auch eine grosse Kanne heisses Wasser. Durchgehend trinken wir unseren eigenen Erkältungstee, da wir mit dem Schnupfen immer etwas kränkeln. Ausserdem trinken wir nun fleissig Elektrolyte. Das hilft ebenfalls. Der gestrige Tiefpunkt hat uns doch ziemlich beunruhigt, das halten wir nicht noch einmal aus. 
 
 Am Nachmittag spielen wir weitere Runden Mau Mau. Manraj geht jetzt wieder in Führung, das gefällt ihm ;)! Christine (von der Agentur) erkundigt sich wie es uns geht, sie warnt uns, dass Nepalesen beim Spiel immer schummeln ;) ;)! Danach verliert Manraj auf einmal - haha!
 
 ![](/post/2018-11-07-Himalaya-2_files/P1011490.JPG)
 
-Nebenan ist auch ein Medical Help Point, da unsere Elektrolyt-Packungen langsam zuende gehen holen wir hier neue. Interessant, dort arbeitet eine Engländerin. Leider hat die Bäckerei nebenan zu - wobei wir ohnehin nicht mutig genug sind davon etwas zu essen, denn die Waren könnten dort schon lange liegen und wir wollen eigentlich nur gut gekochtes Essen, um für unsere Mägen ganz Sicher zu gehen.
+Nebenan ist auch ein Medical Help Point, da unsere Elektrolyt-Packungen langsam zuende gehen holen wir hier neue. Interessant, dort arbeitet eine Engländerin. Leider hat die Bäckerei nebenan zu - wobei wir ohnehin nicht mutig genug sind davon etwas zu essen, denn die Waren könnten dort schon lange liegen und wir wollen eigentlich nur gut gekochtes Essen, um für unsere Mägen ganz sicher zu gehen.
 
 Am Abend ziehen wir uns mit heissem Wasser in unseren Flaschen wieder in die warmen Schlafsäcke zurück. Morgen kommen einige Höhenmeter dazu. Manrajs Plan ist es nach Lobuche zu gehen, das wären 700 Höhenmeter, auf 4900m. Mittagessen würden wir auf halbem Weg, in Thukla, auf 4 600 Meter. Wir sind der Meinung, dass das sicher zuviel ist. Wir finden, wir sollten in Thukla bleiben. Wir haben Angst vor einem weiteren solch starken Vorkommen der Höhenkrankheit. Manraj ist nicht begeistert davon, Thukla sei kein schönes Teahouse, alle gehen dort nur Mittagessen und da es direkt über einem Fluss ist, wird es sehr kalt dort. Aber wir werden es am nächsten Morgen besprechen wohin wir nun genau gehen.
 
@@ -62,13 +66,19 @@ SPOILER: Thukla war wirklich nachts EISkalt. Ausser dem höchsten Punkt an dem w
 
 ![](/post/2018-11-07-Himalaya-2_files/P1011492.JPG)
 
-Der Weg von Pheriche aus startet durch eine interessante Tallandschaft. Wir wandern in Fluss- und Bachbetten. Überqueren kleine Ströme. Jede Menge Yaks, Nags (Manraj bringt uns diese Bezeichnung für die weiblichen Yaks bei) und auch Ponys (Ghoda) sind zu sehen. Sie grasen frei im Tal. Die flache Landschaft ist angenehm zu laufen, auch wenn man selbst hier die Höhe merkt. Wir hören Musik und geniessen es zu dritt zu laufen :)!
+Der Weg von Pheriche aus startet durch eine interessante Tallandschaft. Wir wandern in Fluss- und Bachbetten. Überqueren kleine Ströme. Jede Menge Yaks, Nags (Manraj bringt uns diese Bezeichnung für die weiblichen Yaks bei) und auch Ponys (Ghoda) sind zu sehen. Sie grasen frei im Tal. 
 
 ![](/post/2018-11-07-Himalaya-2_files/P1011519.JPG)
 
 ![](/post/2018-11-07-Himalaya-2_files/IMG_20181108_090033.jpg)
 
 ![](/post/2018-11-07-Himalaya-2_files/P1011521.JPG)
+
+Die flache Landschaft ist angenehm zu laufen, auch wenn man selbst hier die Höhe merkt. Wir hören Musik und geniessen es zu dritt zu laufen :)!
+
+```{r, eval=TRUE, echo=FALSE}
+blogdown::shortcode("youtube", "sjVt3TaDPjk")
+```
 
 Nach einer Stunde gemütlicher Wanderung zieht die Steigung langsam an, bis wir nur noch langsam, schrittweise weiterkommen. Eigentlich sieht es nur nach einem Hügel aus, wahrscheinlich sogar weniger steil als unser kleiner Hügel in Bottmingen... Aber hier wird es zu einem Berg. Wir lachen über uns selbst und versuchen trotzdem noch zusätzlich wirklich langsam zu laufen, damit wir nicht noch mehr ausser Atem kommen. Je weniger Sauerstoff, desto schlimmer wird es uns bei der Ankunft gehen, also tief und ruhig Atmen! Nach einem anstrengend Anstieg in dünner Höhenluft um weitere 400m finden wir uns nach der Überquerung einer wackligen Holzbrücke in Thukla wieder. Einer kleinen Siedlung von 3 Gebäuden welche als Filmkulisse für einen James Bond Film dienen könnte. Es sieht wunderschön aus in der Sonne.
 
