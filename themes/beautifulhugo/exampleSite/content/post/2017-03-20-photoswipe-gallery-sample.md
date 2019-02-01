@@ -5,6 +5,15 @@ date: 2017-03-20
 tags: ["example", "photoswipe"]
 ---
 
+{{< gallery width="500px" height="200px" caption-position="bottom" 
+  {{< figure src="/img/plates/china.jpg" caption="China" >}}
+  {{< figure src="/img/plates/westkueste.jpg" caption="Westküste Australien (Beiträge folgen)" >}}
+  {{< figure src="/img/plates/ostkueste.jpg" caption="Ostküste Australien (Beiträge folgen)" >}}
+  {{< figure src="/img/plates/tasmanien.jpg" caption="Tasmanien" >}}
+  {{< figure src="/img/plates/neuseeland.jpg" caption="Neuseeland" >}}
+{{< /gallery >}}
+
+
 Beautiful Hugo adds a few custom shortcodes created by [Li-Wen Yip](https://www.liwen.id.au/heg/) and [Gert-Jan van den Berg](https://github.com/GjjvdBurg/HugoPhotoSwipe) for making galleries with [PhotoSwipe](http://photoswipe.com) . 
 
 {{< gallery caption-effect="fade" >}}
@@ -12,6 +21,18 @@ Beautiful Hugo adds a few custom shortcodes created by [Li-Wen Yip](https://www.
   {{< figure thumb="-thumb" link="/img/sphere.jpg" caption="Sphere" >}}
   {{< figure thumb="-thumb" link="/img/triangle.jpg" caption="Triangle" alt="This is a long comment about a triangle" >}}
 {{< /gallery >}}
+
+{{< photo href="/photos/bologna/large/photo_1_1337x1600.jpg"
+largeDim="1337x1600"
+smallUrl="/photos/bologna/small/photo_1_535x800.jpg"
+smallDim="535x800"
+alt="Example Alt Text"
+thumbSize="256x256"
+thumbUrl="/photos/bologna/thumb/photo_1_256x256.jpg"
+caption="Example Caption"
+copyright="Example Copyright" >}}
+
+
 
 <!--more-->
 ## Example
