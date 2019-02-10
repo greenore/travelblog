@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/page/tasmanien/tasmania-11/</loc>
+    <lastmod>2019-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/page/tasmanien/tasmania-10/</loc>
+    <lastmod>2019-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/page/tasmanien/tasmania-9/</loc>
+    <lastmod>2019-01-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/page/tasmanien/tasmania-8/</loc>
+    <lastmod>2019-01-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/page/tasmanien/tasmania-7/</loc>
+    <lastmod>2019-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/page/tasmanien/tasmania-6/</loc>
+    <lastmod>2019-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/page/tasmanien/tasmania-5/</loc>
     <lastmod>2019-01-18T00:00:00+00:00</lastmod>
   </url>
@@ -71,7 +101,19 @@
   </url>
   
   <url>
+    <loc>/tags/bruny-island/</loc>
+    <lastmod>2019-01-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/cradle-mountain/</loc>
+    <lastmod>2019-01-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -90,6 +132,12 @@
   <url>
     <loc>/tags/gorakshep/</loc>
     <lastmod>2018-11-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/grindelwald/</loc>
+    <lastmod>2019-01-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -130,6 +178,12 @@
   </url>
   
   <url>
+    <loc>/tags/mt-field-np/</loc>
+    <lastmod>2019-01-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/muscat/</loc>
     <lastmod>2018-10-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -150,6 +204,10 @@
   <url>
     <loc>/page/nepal/</loc>
     <lastmod>2018-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/page/neuseeland/</loc>
   </url>
   
   <url>
@@ -182,7 +240,19 @@
   </url>
   
   <url>
+    <loc>/tags/queenstown/</loc>
+    <lastmod>2019-01-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/page/reiseroute/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/richmont/</loc>
+    <lastmod>2019-01-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -193,13 +263,13 @@
   
   <url>
     <loc>/tags/tasmanien/</loc>
-    <lastmod>2019-01-18T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/page/tasmanien/</loc>
-    <lastmod>2019-01-18T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -215,8 +285,14 @@
   </url>
   
   <url>
+    <loc>/tags/westway/</loc>
+    <lastmod>2019-01-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2019-01-18T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>

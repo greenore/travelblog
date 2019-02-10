@@ -100,3 +100,9 @@ enableEmoji = true
     name = "Tasmanien"
     url = "page/tasmanien/"
     weight = 2
+
+[[menu.main]]
+    parent = "blog"
+    name = "Neuseeland"
+    url = "page/neuseeland/"
+    weight = 3
