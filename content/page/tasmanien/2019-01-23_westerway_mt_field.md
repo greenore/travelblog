@@ -16,6 +16,7 @@ Am Morgen schlafen wir gemütlich aus und machen uns dann auf den Weg zum Mount 
 ![](https://lh3.googleusercontent.com/Ye-VfbDxMbdiADmqUx2ysmvufWtyAQPe92ZOH_F8PY81T2MVyvTejXBtgb7Ij41H9VXOKlv5zkSOA0VVHTOyUH5SNVns_SMhchvEbMB28-aDbkLuB14zzI3g8u7ED6sMMHoJoc26Hic=w1920-h1080)
 
 In dem Dorf Westway gibt es eine Beeren-Farm. Dorf ist übertrieben gesagt, eigentlich ist es eine Ansammlung von Häusern entlang der Strassen und Kreuzung. Wir kaufen leckere frische Brombeeren und bewundern die Riesenbeere. 
+
 ![](https://lh3.googleusercontent.com/NyAUr0ZxwfxDW-nEs_uHVbmxQz12MCKR_EwmKG3gpr4OT2gGIIFKWP3i0h2vDb8u98hvDlMCrASsEK973kCDS-GPgBRK4MDWSRqrunKK7aCqx1AK3dkygpYwyHzqIEggRM0MMDNgbgQ=w1920-h1080)
 
 ![](https://lh3.googleusercontent.com/gc9EDMvEJ4WlMHN7uGQ2zuKEEmVxRm5v_kgmJVTv4TVkvW8oFJdpHyd-qEx_UftWS6XpQ1EGW43uMtk6nHnQobz6XL7mtcUPE9VcJiWcvZs_uoSs1c5F0wUmCziU2CQ_Oz9Yz8SfVGc=w1920-h1080)

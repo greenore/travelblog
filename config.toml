@@ -1,6 +1,6 @@
 baseurl = "https://www.miri-und-tim.com/"
 DefaultContentLanguage = "de"
-title = "Miri & Tim's Blog"
+title = "Miris & Tims Reisetagebuch"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 #pygmentsStyle = "trac"
@@ -75,15 +75,15 @@ enableEmoji = true
     weight = 1
 
 [[menu.main]]
-    name = "Über uns"
-    url = "page/about/"
+    name = "Tags"
+    url = "tags"
     weight = 2
 
 [[menu.main]]
-    name = "Tags"
-    url = "tags"
+    name = "Über uns"
+    url = "page/about/"
     weight = 3
-    
+
 [[menu.main]]
     name = "Blog"
     identifier = "blog"

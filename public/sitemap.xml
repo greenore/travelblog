@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/page/neuseeland/new_zealand-1/</loc>
+    <lastmod>2019-01-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/page/tasmanien/tasmania-11/</loc>
     <lastmod>2019-01-24T00:00:00+00:00</lastmod>
   </url>
@@ -112,6 +117,12 @@
   </url>
   
   <url>
+    <loc>/tags/christchurch/</loc>
+    <lastmod>2019-01-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/cradle-mountain/</loc>
     <lastmod>2019-01-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -207,7 +218,14 @@
   </url>
   
   <url>
+    <loc>/tags/neuseeland/</loc>
+    <lastmod>2019-01-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/page/neuseeland/</loc>
+    <lastmod>2019-01-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -292,7 +310,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-01-24T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
