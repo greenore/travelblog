@@ -77,7 +77,11 @@ Wir spazieren noch länger durch den Park als das Konzert aus ist: durch den Ros
 
 Weiter geht es ins Zentrum von Christchurch, vorbei an einem Regierungsgebäude und einem Kunstmuseum mit der Aufschrift “Everything is going to be alright”.
 
+![](https://lh3.googleusercontent.com/i1Eo-dzh6XP2t6FDkOlVykzmCbG-RVSJ9xELLKUt9oPB2DbosvUYQZoBa082W92I_8KG5Pyo8gHXdEu5J7yeJ8zsgdM8GioVfhX4cyDhzT6vL78bSwkCeMlXEAtEK1Nyr0Y3mzgSEeQ=w1920-h1080)
+
 ![](https://lh3.googleusercontent.com/7N0gg_mEogVgCe3GZ8rubvrg8IA_Jw97vC6kkz_5aI89muLgZSNHWRqzDCc9MrQGyWotCqIMm0mZCceOlskGU-tUfGxhdUcqnOnJzIA4FLoxBOt9wRvz9Q_11LSKmMg3GyX2jj7zEMk=w1920-h1080)
+
+![](https://lh3.googleusercontent.com/PBSY20PNQTZNPiRG9yPNAGTOY_cMcbPeX-Yae6OCZLe8oM0nDlSSVpdvRP7tXASqi1OJgCOxc5lXNjg0CKGUfI_Njci8AHaqcQfE8NKgy6inRJ9g2EjNC1qz-J35CgOJpojnspDS9js=w1920-h1080)
 
 Alle, die das Regierungsgebäude nach einer Sitzung verlassen sehen sich dem gegenüber. Sehr geschickt :)!
 Im Zentrum sind deutlich die Zeichen der Erdbeben zu sehen, die 2010 und 2011 Christchurch verwüstet haben. Ein Wahrzeichen ist die eingestürzte Kirche sowie die Transition Church. Diese schauen wir auch noch an, erinnert stark an die Christuskirche in Lauf :).
@@ -94,9 +98,17 @@ Wir sehen auch die Tramway und die neue Regent Street, zwei weitere Wahrzeichen.
 
 Sonntag Abend ist die Regent Street und die Lokale dort sehr voll. Wir bekommen aber noch einen Platz bei einem modernen Mexikaner und Miri kann einen sehr leckeren Cocktail “Painkiller” geniessen.
 
+![](https://lh3.googleusercontent.com/Z5g3yGnyeUi-Mugi7lTyLlrBU6BjnUS1yj-iPbgRb7j8uM8t1-5kFlF516dW3PkxeEtKHu9Hb9d96VWZQ0XsKQwH53Vfoy4HxrAH1Nz4nkEukcouYutM5bbcPdAiHfk--AFowaDKa1U=w1920-h1080)
+
+![](https://lh3.googleusercontent.com/fjkFBlU0eiolNFraK49BoN7kSF5qhQ9fClaJQw5SNZ1ix8akCvL-qYqlQG7Vt5hZJFbe6bYtkzUu0U8MTJlKDvA3jE-4sj1JuRGSH0U4H-vgcCml86-ITME1wBFmnRx8rF-6Y8VD5IE=w1920-h1080)
+
 ![](https://lh3.googleusercontent.com/CPMRvPpnNDHh1dElyYUKzzce2Gb1xhQh7iEzDEyUYZYU7dhOS41xs5lu3uENvQPoJoHXaj2R7g5zn1iXdDOn6Tme7zkds142zGf42RpZ4l0kDyst-VlykCra0Ka_YtSaRXxFIxgWvtc=w1920-h1080)
 
-Danach gibt es noch ein Eis von der Eisdiele Rollicking Gelato gegenüber. Diese ist mega beliebt, mit einer total langen Schlange davor. Kein Wunder, denn das Eis ist richtig lecker. Der Heimweg ist nicht lange, aber richtig kalt. Es hat nur noch 18 Grad und wir sind das nicht mehr gewohnt. Trotz langer Hose frieren wir im T-Shirt.
+Danach gibt es noch ein Eis von der Eisdiele Rollicking Gelato gegenüber. Diese ist mega beliebt, mit einer total langen Schlange davor. Kein Wunder, denn das Eis ist richtig lecker.
+
+![](https://lh3.googleusercontent.com/jdVZAvRs4Z5EokLUlOKSUtaDXs1jvCN20ieJIJcwAzW7ESh_6xjCWRa9SspgS2_W-RuNbO-Y8abQNnlVs8nj7PKPZQnFFhXip4jr442E1XDcsFwzDlnhnnnvQH7-VZg7sQa4WOeP2tE=w1920-h1080)
+
+Der Heimweg ist nicht lange, aber richtig kalt. Es hat nur noch 18 Grad und wir sind das nicht mehr gewohnt. Trotz langer Hose frieren wir im T-Shirt.
 
 ![](https://lh3.googleusercontent.com/dIIZwiTINOJI7n0FxzgJVPP2nvNhtYSjJzODwyOjhueIGGMyiU1-2b-pB7KWYNkOkYRAhxnR_P8JN92HdKPjU7qV9dKaiw5t1A9WNOqX1m61EZ_sG523WruJTQljQiMs7kwjclir8Ko=w1920-h1080)
 
@@ -106,9 +118,11 @@ Auch unseren zweiten Tag in Christchurch starten wir gemütlich und schlafen ent
 
 ![](https://lh3.googleusercontent.com/1WhcEBFKwjRq3_2Vxa21krzaJbfq0Aq779gJrAHqdvLE2Dsro4zwSvmxMjQ1aE9lgFZx9Rtung3AKAqSjedQxihJ-BU5EBXzXiAK38ELLYKedFnzIhJMQi2PPNJcHcvGMHYJdSWyDwk=w1920-h1080)
 
-![](https://lh3.googleusercontent.com/5Y3zVf13e4GAcfJ1iaKV7p-AeACh9mVicoNM7PM-XKmP9jUjE6a-ZugTcrl6TC9kR_3vNmRVTGUgPa9BQWHZshQcdFmcMN_z4O2PqA9CrVTQXU_Szdw1Tme5dc21ceJSwaJFepANWdY=w1920-h1080)
+![](https://lh3.googleusercontent.com/D3De8U8zj3e3jirfCUUTaQktL6eCcSBWffThmUS6NTCQB6joc5xOfRt4_yGdoNrEhj70LFLgErSCdAfYRcQNkej08OPymO2RzSABkqCqOkSdoYK-ZBAfMn5eObv4lkYg1knLTrOhGf8=w1920-h1080)
 
 ![](https://lh3.googleusercontent.com/FrFkhrgudcDrNz1iZAMgAecqb_456Y3O6TZS3NBrXr23t7FId2OSeiIKf0H-X6Yh5uupwI6XEwj5hbXTlTUyx-ZPJtp89ybMjPMBraniodkT_2RA9u0FVZUl1vhYKDjTthhlxUMk_dI=w1920-h1080)
+
+![](https://lh3.googleusercontent.com/5Y3zVf13e4GAcfJ1iaKV7p-AeACh9mVicoNM7PM-XKmP9jUjE6a-ZugTcrl6TC9kR_3vNmRVTGUgPa9BQWHZshQcdFmcMN_z4O2PqA9CrVTQXU_Szdw1Tme5dc21ceJSwaJFepANWdY=w1920-h1080)
 
 Die Neuseeländer können definitiv besseres Brot machen als die Australier. Wahnsinn. Das ist so ein grosses Defizit in Australien. Wieso können die das nicht? ;)
 Heute ist es richtig heiss, 30 Grad, die Hitzewelle kommt näher. Am Nachmittag machen wir uns zu Fuss auf den Weg zu einem kleinen Einkaufszentrum in Christchurch.
@@ -174,6 +188,8 @@ Miri geht anschliessend zum Friseur, Tim vergnügt sich weiter im Supermarkt.
 Miri ist sehr zufrieden mit ihrem Friseurbesuch bei Kelly. Preislich ist es gleich wie in Deutschland. Sie unterhalten sich nett, Miri lernt einige neue Ausdrücke “having a ball” = “having a great time” und der Tatsache, dass zwischen Australien und Neuseeland auch Personenfreizügigkeit herrscht. 
 
 ![](https://lh3.googleusercontent.com/TyWwVi3fA0AnYvjiAvC1IwinLrBjdJaTXaimvNwOlKnd4sYoo8bx80eo_vOp6VXmhtvAdsXGvc7jyYXoMlnrn545BHYD3KoIsiCZlF3txI12eKnqarqUWHHauMIb-Ac4hvnleUx1sWc=w1920-h1080)
+
+![](https://lh3.googleusercontent.com/ZGmzpurglrL4qj-JccaoKtBXdCsMT86nhkVnTf95jlNLWhXmSOYWVVLtpr21JILrDfVMV7QLiXqp22Ycw8B5Di-5LfKzfdUpEC0-ndEMXC5IoEkwBlxEh3QF0AdsPYkUjcwv0HJtRAQ=w1920-h1080)
 
 Tim hat bereits den Camper abgeholt und begonnen einzuräumen. Es ist ein SEHR alter Camper, handgeschalten! Er erfordert also einiges an Umstellung. Auch ist er etwas kleiner als der letzte und etwas weniger gut aufgeteilt von der Stell/Arbeitsfläche im “Küchenbereich”. Naja wir werden uns schon daran gewöhnen.
 
