@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/page/kanada/canada-5/</loc>
+    <lastmod>2019-07-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/page/kanada/canada-4/</loc>
+    <lastmod>2019-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/page/kanada/canada-3/</loc>
+    <lastmod>2019-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/page/neuseeland/new_zealand-1/</loc>
     <lastmod>2019-01-29T00:00:00+00:00</lastmod>
   </url>
@@ -112,6 +127,12 @@
   </url>
   
   <url>
+    <loc>/tags/canada/</loc>
+    <lastmod>2019-07-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
   </url>
@@ -168,6 +189,23 @@
     <loc>/tags/honeymoon-bay/</loc>
     <lastmod>2019-01-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/icefield-parkway/</loc>
+    <lastmod>2019-07-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/jasper/</loc>
+    <lastmod>2019-07-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/page/kanada/</loc>
+    <lastmod>2019-07-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -309,8 +347,14 @@
   </url>
   
   <url>
+    <loc>/tags/yoho/</loc>
+    <lastmod>2019-07-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2019-01-29T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>

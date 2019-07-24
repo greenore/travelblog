@@ -106,3 +106,9 @@ enableEmoji = true
     name = "Neuseeland"
     url = "page/neuseeland/"
     weight = 3
+    
+[[menu.main]]
+    parent = "blog"
+    name = "Kanada"
+    url = "page/kanada/"
+    weight = 4
