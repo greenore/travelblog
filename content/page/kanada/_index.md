@@ -1,6 +1,8 @@
 ---
 title: Kanada
-bigimg: [{src: "https://lh3.googleusercontent.com/_qoFejGcZpmS-7JIw2e6Uz-Y5Zr8AZMQqSbgOb4CUdO-ypkUhTs2CCPKINGg_hu9V1Rzh3XQYPVcuPFqKiL60IylrO41kZmrY3iRkJSH_o5ZTXSVM89g68hggdh-8smPj4s_WB0NjyM=w1920-h1080"},
+bigimg: [{src: "https://lh3.googleusercontent.com/62J0HslIUaaSG4mvBxRncmxx2w85Np7saWVXvJ7aEEJLXDN3p5_7gcyKNlnvOY7zKu22U-eFbd1raildnlL9VrqkoNMc8codGW-8mV5xWI0mQzOMWfa1rU_TsOMnfGsV5aJkhJzDN28=w1920-h1080"},
+         {src: "https://lh3.googleusercontent.com/L_qd5uSDxpBinEz1L_H9mgLlLjxcI1xISDBP8SI1ARbbIZX5ovxvWcaRbMp1q4zuQ4uR1qgfBLpMpZBjSzEgsph6j525WJQHIzpseaqbbakkO45Sl1SvSzS08DCO0P-4wTQwSKBEzXE=w1920-h1080"},
+         {src: "https://lh3.googleusercontent.com/_qoFejGcZpmS-7JIw2e6Uz-Y5Zr8AZMQqSbgOb4CUdO-ypkUhTs2CCPKINGg_hu9V1Rzh3XQYPVcuPFqKiL60IylrO41kZmrY3iRkJSH_o5ZTXSVM89g68hggdh-8smPj4s_WB0NjyM=w1920-h1080"},
          {src: "https://lh3.googleusercontent.com/C6pNAU_P0_R99HBZmujqOQC9pWRnRI_BfGiibXw6k8E4WuAi4UEXb5uNEP-mTEZP7LWndW9HehIgOg4rUPNDs2otwJxw40BgfJsc212KvZaz4nf_24cugWBJSvLtDNtqGOgkrGolEn8=w1920-h1080"},
          {src: "https://lh3.googleusercontent.com/5wtzNPMRgTzSxwu9MxgtSuOPCM0wH_LHku3SJTovMM4UUCTu9xNRaXSaiVC2sw40Xuh_xFqwxYajb_yd39OQdoGxpqGN87XgnZTi5aJy1zxiCNOBnO7X4RXvD_BJUqN-n7Q34Yglw-0=w1920-h1080"},
          {src: "https://lh3.googleusercontent.com/QufWgeBz4sTcJCt7OH7axGuRMOffipWnudPj83VhowfSmhqYBFdDIgaAsZHgD0FrFYxwH1Y0b_uVLlurxFPuBDswvQcmx_jvpot0REw5YUXSv-KODLNuuNXk82REvpEBJSHPjA2LdV0=w1920-h1080"},

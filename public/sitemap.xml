@@ -23,6 +23,11 @@
   </url>
   
   <url>
+    <loc>/page/kanada/canada-1/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/page/neuseeland/new_zealand-1/</loc>
     <lastmod>2019-01-29T00:00:00+00:00</lastmod>
   </url>
@@ -132,6 +137,12 @@
   </url>
   
   <url>
+    <loc>/tags/calgary/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/canada/</loc>
     <lastmod>2019-07-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -157,6 +168,18 @@
   <url>
     <loc>/tags/everest-base-camp/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/flugzeug/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/frankfurt/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
