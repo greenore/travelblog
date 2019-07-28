@@ -4,7 +4,7 @@
   
   <url>
     <loc>/page/kanada/canada-5/</loc>
-    <lastmod>2019-07-21T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -15,6 +15,11 @@
   <url>
     <loc>/page/kanada/canada-3/</loc>
     <lastmod>2019-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/page/kanada/canada-2/</loc>
+    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -128,7 +133,7 @@
   
   <url>
     <loc>/tags/canada/</loc>
-    <lastmod>2019-07-21T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -174,6 +179,18 @@
   </url>
   
   <url>
+    <loc>/tags/heartland/</loc>
+    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/high-river/</loc>
+    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/himalaya/</loc>
     <lastmod>2018-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -199,13 +216,13 @@
   
   <url>
     <loc>/tags/jasper/</loc>
-    <lastmod>2019-07-21T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/page/kanada/</loc>
-    <lastmod>2019-07-21T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -354,7 +371,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-07-21T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
